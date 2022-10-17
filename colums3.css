@@ -1,0 +1,215 @@
+.colums3{
+    display: inline-block;
+    margin-right: 50px;
+}
+
+.span3{
+    /* padding: 15px 15px 15px 0; */
+    position: relative;
+    list-style-type: none;
+    width: 100%;
+    display: flex;
+}
+
+.span3-1{
+    /* padding: 15px 15px 15px 0; */
+    position: relative;
+    list-style-type: none;
+    width: 100%;
+    display: flex;
+}
+
+.span3-2{
+    /* padding: 15px 15px 15px 0; */
+    position: relative;
+    list-style-type: none;
+    width: 100%;
+    display: flex;
+}
+
+.span3-3{
+    /* padding: 15px 15px 15px 0; */
+    position: relative;
+    list-style-type: none;
+    width: 100%;
+    display: flex;
+}
+
+.span3-4{
+    /* padding: 15px 15px 15px 0; */
+    position: relative;
+    list-style-type: none;
+    width: 100%;
+    display: flex;
+}
+
+.all3{
+    /* padding: 15px 15px 15px 0; */
+    position: relative;
+    list-style-type: none;
+    width: 100%;
+    display: flex;
+}
+
+
+.span3 .beautiful{
+    position: inherit;
+    margin:10px 10px 10px 0;
+    padding: 10px 10px 10px 0;
+    cursor: pointer;
+    align-items: left;
+    display:flex;
+    justify-content: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 1em;
+    color: #ebebeb;
+    font-size: 15px;
+    box-sizing: border-box;
+}
+
+.span3-1 .manikyr{
+    position: inherit;
+    margin:10px 10px 10px 0;
+    padding: 10px 10px 10px 0;
+    cursor: pointer;
+    align-items: left;
+    display:flex;
+    justify-content: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 1em;
+    color: #ebebeb;
+    font-size: 15px;
+    box-sizing: border-box;
+}
+
+.span3-2 .prichesks{
+    position: inherit;
+    margin:10px 10px 10px 0;
+    padding: 10px 10px 10px 0;
+    cursor: pointer;
+    align-items: left;
+    display:flex;
+    justify-content: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 1em;
+    color: #ebebeb;
+    font-size: 15px;
+    box-sizing: border-box;
+}
+
+.span3-3 .epelyasia{
+    position: inherit;
+    margin:10px 10px 10px 0;
+    padding: 10px 10px 10px 0;
+    cursor: pointer;
+    align-items: left;
+    display:flex;
+    justify-content: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 1em;
+    color: #ebebeb;
+    font-size: 15px;
+    box-sizing: border-box;
+}
+
+.span3-4 .stilists{
+    position: inherit;
+    margin:10px 10px 10px 0;
+    padding: 10px 10px 10px 0;
+    cursor: pointer;
+    align-items: left;
+    display:flex;
+    justify-content: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 1em;
+    color: #ebebeb;
+    font-size: 15px;
+    box-sizing: border-box;
+}
+
+.all3 .all-services1{
+    position: inherit;
+    margin:10px 10px 10px 0;
+    padding: 10px 10px 10px 0;
+    cursor: pointer;
+    align-items: left;
+    display:flex;
+    justify-content: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 1em;
+    color: #ebebeb;
+    font-size: 15px;
+    box-sizing: border-box;
+}
+
+.all-services1 > a{
+    text-decoration: none;
+    color: #333;
+    padding: 0 0 0 10px;
+}
+
+.all-services1:hover{
+    text-decoration: none;
+    background-color: rgb(219, 217, 217);
+}
+
+.beautiful > a{
+    text-decoration: none;
+    color: #333;
+    padding: 0 0 0 10px;
+}
+
+.beautiful:hover{
+    text-decoration: none;
+    background-color: rgb(219, 217, 217);
+}
+
+.manikyr > a{
+    text-decoration: none;
+    color: #333;
+    padding: 0 0 0 10px;
+}
+
+.manikyr:hover{
+    text-decoration: none;
+    background-color: rgb(219, 217, 217);
+}
+
+.prichesks > a{
+    text-decoration: none;
+    color: #333;
+    padding: 0 0 0 10px;
+}
+
+.prichesks:hover{
+    text-decoration: none;
+    background-color: rgb(219, 217, 217);
+}
+
+.epelyasia > a{
+    text-decoration: none;
+    color: #333;
+    padding: 0 0 0 10px;
+}
+
+.epelyasia:hover{
+    text-decoration: none;
+    background-color: rgb(219, 217, 217);
+}
+
+.stilists > a{
+    text-decoration: none;
+    color: #333;
+    padding: 0 0 0 10px;
+}
+
+.stilists:hover{
+    text-decoration: none;
+    background-color: rgb(219, 217, 217);
+}

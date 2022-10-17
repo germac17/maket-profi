@@ -1,0 +1,215 @@
+.colums2{
+    display: inline-block;
+    margin-right: 50px;
+}
+
+.span2{
+    /* padding: 15px 15px 15px 0; */
+    position: relative;
+    list-style-type: none;
+    width: 100%;
+    display: flex;
+}
+
+.span2-1{
+    /* padding: 15px 15px 15px 0; */
+    position: relative;
+    list-style-type: none;
+    width: 100%;
+    display: flex;
+}
+
+.span2-2{
+    /* padding: 15px 15px 15px 0; */
+    position: relative;
+    list-style-type: none;
+    width: 100%;
+    display: flex;
+}
+
+.span2-3{
+    /* padding: 15px 15px 15px 0; */
+    position: relative;
+    list-style-type: none;
+    width: 100%;
+    display: flex;
+}
+
+.span2-4{
+    /* padding: 15px 15px 15px 0; */
+    position: relative;
+    list-style-type: none;
+    width: 100%;
+    display: flex;
+}
+
+.all2{
+    /* padding: 15px 15px 15px 0; */
+    position: relative;
+    list-style-type: none;
+    width: 100%;
+    display: flex;
+}
+
+
+.span2 .master{
+    position: inherit;
+    margin:10px 10px 10px 0;
+    padding: 10px 10px 10px 0;
+    cursor: pointer;
+    align-items: left;
+    display:flex;
+    justify-content: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 1em;
+    color: #ebebeb;
+    font-size: 15px;
+    box-sizing: border-box;
+}
+
+.span2-1 .santehniks{
+    position: inherit;
+    margin:10px 10px 10px 0;
+    padding: 10px 10px 10px 0;
+    cursor: pointer;
+    align-items: left;
+    display:flex;
+    justify-content: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 1em;
+    color: #ebebeb;
+    font-size: 15px;
+    box-sizing: border-box;
+}
+
+.span2-2 .electriks{
+    position: inherit;
+    margin:10px 10px 10px 0;
+    padding: 10px 10px 10px 0;
+    cursor: pointer;
+    align-items: left;
+    display:flex;
+    justify-content: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 1em;
+    color: #ebebeb;
+    font-size: 15px;
+    box-sizing: border-box;
+}
+
+.span2-3 .plitochniks{
+    position: inherit;
+    margin:10px 10px 10px 0;
+    padding: 10px 10px 10px 0;
+    cursor: pointer;
+    align-items: left;
+    display:flex;
+    justify-content: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 1em;
+    color: #ebebeb;
+    font-size: 15px;
+    box-sizing: border-box;
+}
+
+.span2-4 .remont{
+    position: inherit;
+    margin:10px 10px 10px 0;
+    padding: 10px 10px 10px 0;
+    cursor: pointer;
+    align-items: left;
+    display:flex;
+    justify-content: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 1em;
+    color: #ebebeb;
+    font-size: 15px;
+    box-sizing: border-box;
+}
+
+.all2 .all-services{
+    position: inherit;
+    margin:10px 10px 10px 0;
+    padding: 10px 10px 10px 0;
+    cursor: pointer;
+    align-items: left;
+    display:flex;
+    justify-content: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 1em;
+    color: #ebebeb;
+    font-size: 15px;
+    box-sizing: border-box;
+}
+
+.all-services > a{
+    text-decoration: none;
+    color: #333;
+    padding: 0 0 0 10px;
+}
+
+.all-services:hover{
+    text-decoration: none;
+    background-color: rgb(219, 217, 217);
+}
+
+.master > a{
+    text-decoration: none;
+    color: #333;
+    padding: 0 0 0 10px;
+}
+
+.master:hover{
+    text-decoration: none;
+    background-color: rgb(219, 217, 217);
+}
+
+.santehniks > a{
+    text-decoration: none;
+    color: #333;
+    padding: 0 0 0 10px;
+}
+
+.santehniks:hover{
+    text-decoration: none;
+    background-color: rgb(219, 217, 217);
+}
+
+.electriks > a{
+    text-decoration: none;
+    color: #333;
+    padding: 0 0 0 10px;
+}
+
+.electriks:hover{
+    text-decoration: none;
+    background-color: rgb(219, 217, 217);
+}
+
+.plitochniks > a{
+    text-decoration: none;
+    color: #333;
+    padding: 0 0 0 10px;
+}
+
+.plitochniks:hover{
+    text-decoration: none;
+    background-color: rgb(219, 217, 217);
+}
+
+.remont > a{
+    text-decoration: none;
+    color: #333;
+    padding: 0 0 0 10px;
+}
+
+.remont:hover{
+    text-decoration: none;
+    background-color: rgb(219, 217, 217);
+}

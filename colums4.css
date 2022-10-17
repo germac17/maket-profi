@@ -1,0 +1,215 @@
+.colums4{
+    display: inline-block;
+    margin-right: 50px;
+}
+
+.span4{
+    /* padding: 15px 15px 15px 0; */
+    position: relative;
+    list-style-type: none;
+    width: 100%;
+    display: flex;
+}
+
+.span4-1{
+    /* padding: 15px 15px 15px 0; */
+    position: relative;
+    list-style-type: none;
+    width: 100%;
+    display: flex;
+}
+
+.span4-2{
+    /* padding: 15px 15px 15px 0; */
+    position: relative;
+    list-style-type: none;
+    width: 100%;
+    display: flex;
+}
+
+.span4-3{
+    /* padding: 15px 15px 15px 0; */
+    position: relative;
+    list-style-type: none;
+    width: 100%;
+    display: flex;
+}
+
+.span4-4{
+    /* padding: 15px 15px 15px 0; */
+    position: relative;
+    list-style-type: none;
+    width: 100%;
+    display: flex;
+}
+
+.all4{
+    /* padding: 15px 15px 15px 0; */
+    position: relative;
+    list-style-type: none;
+    width: 100%;
+    display: flex;
+}
+
+
+.span4 .freelans{
+    position: inherit;
+    margin:10px 10px 10px 0;
+    padding: 10px 10px 10px 0;
+    cursor: pointer;
+    align-items: left;
+    display:flex;
+    justify-content: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 1em;
+    color: #ebebeb;
+    font-size: 15px;
+    box-sizing: border-box;
+}
+
+.span4-1 .designer{
+    position: inherit;
+    margin:10px 10px 10px 0;
+    padding: 10px 10px 10px 0;
+    cursor: pointer;
+    align-items: left;
+    display:flex;
+    justify-content: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 1em;
+    color: #ebebeb;
+    font-size: 15px;
+    box-sizing: border-box;
+}
+
+.span4-2 .marketing{
+    position: inherit;
+    margin:10px 10px 10px 0;
+    padding: 10px 10px 10px 0;
+    cursor: pointer;
+    align-items: left;
+    display:flex;
+    justify-content: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 1em;
+    color: #ebebeb;
+    font-size: 15px;
+    box-sizing: border-box;
+}
+
+.span4-3 .sisadm{
+    position: inherit;
+    margin:10px 10px 10px 0;
+    padding: 10px 10px 10px 0;
+    cursor: pointer;
+    align-items: left;
+    display:flex;
+    justify-content: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 1em;
+    color: #ebebeb;
+    font-size: 15px;
+    box-sizing: border-box;
+}
+
+.span4-4 .translator{
+    position: inherit;
+    margin:10px 10px 10px 0;
+    padding: 10px 10px 10px 0;
+    cursor: pointer;
+    align-items: left;
+    display:flex;
+    justify-content: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 1em;
+    color: #ebebeb;
+    font-size: 15px;
+    box-sizing: border-box;
+}
+
+.all4 .all-services2{
+    position: inherit;
+    margin:10px 10px 10px 0;
+    padding: 10px 10px 10px 0;
+    cursor: pointer;
+    align-items: left;
+    display:flex;
+    justify-content: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 1em;
+    color: #ebebeb;
+    font-size: 15px;
+    box-sizing: border-box;
+}
+
+.all-services2 > a{
+    text-decoration: none;
+    color: #333;
+    padding: 0 0 0 10px;
+}
+
+.all-services2:hover{
+    text-decoration: none;
+    background-color: rgb(219, 217, 217);
+}
+
+.freelans > a{
+    text-decoration: none;
+    color: #333;
+    padding: 0 0 0 10px;
+}
+
+.freelans:hover{
+    text-decoration: none;
+    background-color: rgb(219, 217, 217);
+}
+
+.designer > a{
+    text-decoration: none;
+    color: #333;
+    padding: 0 0 0 10px;
+}
+
+.designer:hover{
+    text-decoration: none;
+    background-color: rgb(219, 217, 217);
+}
+
+.marketing > a{
+    text-decoration: none;
+    color: #333;
+    padding: 0 0 0 10px;
+}
+
+.marketing:hover{
+    text-decoration: none;
+    background-color: rgb(219, 217, 217);
+}
+
+.sisadm > a{
+    text-decoration: none;
+    color: #333;
+    padding: 0 0 0 10px;
+}
+
+.sisadm:hover{
+    text-decoration: none;
+    background-color: rgb(219, 217, 217);
+}
+
+.translator > a{
+    text-decoration: none;
+    color: #333;
+    padding: 0 0 0 10px;
+}
+
+.translator:hover{
+    text-decoration: none;
+    background-color: rgb(219, 217, 217);
+}

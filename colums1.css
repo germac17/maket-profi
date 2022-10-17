@@ -1,0 +1,215 @@
+.colums1{
+    
+    display: inline-block;
+    margin-right: 50px;
+}
+
+.span1{
+    /* padding: 15px 15px 15px 0; */
+    position: relative;
+    list-style-type: none;
+    width: 100%;
+    display: flex;
+}
+
+.span1-1{
+    /* padding: 15px 15px 15px 0; */
+    position: relative;
+    list-style-type: none;
+    width: 100%;
+    display: flex;
+}
+
+.span1-2{
+    /* padding: 15px 15px 15px 0; */
+    position: relative;
+    list-style-type: none;
+    width: 100%;
+    display: flex;
+}
+
+.span1-3{
+    /* padding: 15px 15px 15px 0; */
+    position: relative;
+    list-style-type: none;
+    width: 100%;
+    display: flex;
+}
+
+.span1-4{
+    /* padding: 15px 15px 15px 0; */
+    position: relative;
+    list-style-type: none;
+    width: 100%;
+    display: flex;
+}
+
+.all1{
+    /* padding: 15px 15px 15px 0; */
+    position: relative;
+    list-style-type: none;
+    width: 100%;
+    display: flex;
+}
+
+.span1 .repetitors{
+    position: inherit;
+    margin:10px 10px 10px 0;
+    padding: 10px 10px 10px 0;
+    cursor: pointer;
+    align-items: left;
+    display:flex;
+    justify-content: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 1em;
+    color: #ebebeb;
+    font-size: 15px;
+    box-sizing: border-box;
+}
+
+.span1-1 .english{
+    position: inherit;
+    margin:10px 10px 10px 0;
+    padding: 10px 10px 10px 0;
+    cursor: pointer;
+    align-items: left;
+    display:flex;
+    justify-content: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 1em;
+    color: #ebebeb;
+    font-size: 15px;
+    box-sizing: border-box;
+}
+
+.span1-2 .russian{
+    position: inherit;
+    margin:10px 10px 10px 0;
+    padding: 10px 10px 10px 0;
+    cursor: pointer;
+    align-items: left;
+    display:flex;
+    justify-content: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 1em;
+    color: #ebebeb;
+    font-size: 15px;
+    box-sizing: border-box;
+}
+
+.span1-3 .primary-school{
+    position: inherit;
+    margin:10px 10px 10px 0;
+    padding: 10px 10px 10px 0;
+    cursor: pointer;
+    align-items: left;
+    display:flex;
+    justify-content: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 1em;
+    color: #ebebeb;
+    font-size: 15px;
+    box-sizing: border-box;
+}
+
+.span1-4 .music{
+    position: inherit;
+    margin:10px 10px 10px 0;
+    padding: 10px 10px 10px 0;
+    cursor: pointer;
+    align-items: left;
+    display:flex;
+    justify-content: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 1em;
+    color: #ebebeb;
+    font-size: 15px;
+    box-sizing: border-box;
+}
+
+.all1 .all-items{
+    position: inherit;
+    margin:10px 10px 10px 0;
+    padding: 10px 10px 10px 0;
+    cursor: pointer;
+    align-items: left;
+    display:flex;
+    justify-content: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 1em;
+    color: #ebebeb;
+    font-size: 15px;
+    box-sizing: border-box;
+}
+
+.all-items > a{
+    text-decoration: none;
+    color: #333;
+    padding: 0 0 0 10px;
+}
+
+.all-items:hover{
+    text-decoration: none;
+    background-color: rgb(219, 217, 217);
+}
+
+.repetitors > a{
+    text-decoration: none;
+    color: #333;
+    padding: 0 0 0 10px;
+}
+
+.repetitors:hover{
+    text-decoration: none;
+    background-color: rgb(219, 217, 217);
+}
+
+.english > a{
+    text-decoration: none;
+    color: #333;
+    padding: 0 0 0 10px;
+}
+
+.english:hover{
+    text-decoration: none;
+    background-color: rgb(219, 217, 217);
+}
+
+.russian > a{
+    text-decoration: none;
+    color: #333;
+    padding: 0 0 0 10px;
+}
+
+.russian:hover{
+    text-decoration: none;
+    background-color: rgb(219, 217, 217);
+}
+
+.primary-school > a{
+    text-decoration: none;
+    color: #333;
+    padding: 0 0 0 10px;
+}
+
+.primary-school:hover{
+    text-decoration: none;
+    background-color: rgb(219, 217, 217);
+}
+
+.music > a{
+    text-decoration: none;
+    color: #333;
+    padding: 0 0 0 10px;
+}
+
+.music:hover{
+    text-decoration: none;
+    background-color: rgb(219, 217, 217);
+}
